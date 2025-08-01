@@ -1,16 +1,28 @@
-## Hi there 👋
+### 👋 Olá! Eu sou o Enzo Aquino
 
-<!--
-**sleezy10/sleezy10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
+💻 Iniciando minha jornada no mundo da tecnologia  
+🚀 Buscando aprender e evoluir como desenvolvedor de software  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 O que estou estudando:
+- Fundamentos de Programação
+- HTML, CSS e JavaScript
+- Banco de Dados
+- Git e GitHub
+
+---
+
+### 🎯 Objetivos:
+- Desenvolver projetos próprios e colaborar em repositórios abertos
+- Aprender frameworks modernos (como React, Node.js, etc.)
+- Contribuir para soluções que facilitem a vida das pessoas
+
+---
+
+### 🌱 Em constante aprendizado...
+
+Seja bem-vindo(a) ao meu perfil! Vamos crescer juntos na tecnologia 🚀
+
+📫 Contato: https://www.linkedin.com/in/enzo-aquino-866463378/
